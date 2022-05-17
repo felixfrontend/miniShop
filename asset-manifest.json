@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/miniShop/static/css/main.9763b91a.css",
+    "main.js": "/miniShop/static/js/main.297c2760.js",
+    "index.html": "/miniShop/index.html",
+    "main.9763b91a.css.map": "/miniShop/static/css/main.9763b91a.css.map",
+    "main.297c2760.js.map": "/miniShop/static/js/main.297c2760.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9763b91a.css",
+    "static/js/main.297c2760.js"
+  ]
+}
